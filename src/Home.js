@@ -28,7 +28,7 @@ const Home = () => {
                 {/* Hero Info */}
                 <div className="lg:flex lg:pt-20 flex-col items-center justify-center relative z-10 px-6 md:max-w-[90vw] mx-auto">
                     {/* Main */}
-                    <div className=" flex flex-col items-center justify-center pb-8">
+                    <div className=" flex flex-col items-center justify-center pb-8 ">
                         <h1 className="text-[50px] md:text-[80px] text-white font-bold pt-12">
                             Aaryav Behl's Video Calling App
                         </h1>
